@@ -1,0 +1,19 @@
+{
+  "ip": {
+    "gongxiaochao": "IP图片URL"
+  },
+
+  "display_case": {
+    "cabnit_case":"
+    "gold_case": "展示柜图片URL1",
+    "luxury_case": "展示柜图片URL2",
+    "museum_case": "展示柜图片URL3",
+    "bank_case": "展示柜图片URL4"
+  },
+
+  "scenes": {
+    "bank": "场景图URL1",
+    "mall": "场景图URL2",
+    "museum": "场景图URL3"
+  }
+}
