@@ -4,7 +4,12 @@
   },
 
   "display_case": {
-    "cabnit_case":"
+    "cabnit_case":[
+      "https://github.com/Harrian-moo/design-assets/blob/main/images/display-case/1.jpg",
+      "https://github.com/Harrian-moo/design-assets/blob/main/images/display-case/12.jpg",
+      "https://github.com/Harrian-moo/design-assets/blob/main/images/display-case/13.jpg",
+      "https://github.com/Harrian-moo/design-assets/blob/main/images/display-case/4.jpg"
+    ]
     "gold_case": "展示柜图片URL1",
     "luxury_case": "展示柜图片URL2",
     "museum_case": "展示柜图片URL3",
